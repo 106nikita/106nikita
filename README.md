@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Nikita Chaurasia
 
-<!--
-**106nikita/106nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Technical Skills:
+- Languages: Java, Python, HTML/CSS, JavaScript
+- Frameworks: React.js.
+- Tools: GitHub, VSCode, 
+- Core-: Machine Learning (basic), Artificial Intelligence 
 
-Here are some ideas to get you started:
+###  Projects:
+- 🛒 **Kampus Cart** – Campus marketplace built using HTML/CSS/JS
+- 📦 **Product Delivery Prediction** – ML project on e-commerce delivery time
+- 🧠 **Image Classification** – DL models with interpretability methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
